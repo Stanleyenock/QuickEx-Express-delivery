@@ -1,0 +1,2 @@
+[      -6ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ https://my.gov.au/:1
+[     959ms] [INFO] myGov build {"version":"30215084 77070df9266ccb981a7225c7413b6edc168a3017","time":1791408094870,"mode":"production"} @ https://my.gov.au/etc.clientlibs/servicesaustralia-fed/clientlibs/imported.min.ACSHASH1a0649394b858c65ade6b2dc06ae5453.js:20

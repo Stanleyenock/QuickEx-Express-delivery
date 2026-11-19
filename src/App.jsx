@@ -50,7 +50,6 @@ function App() {
     [menu, setMenu] = useState(false),
     [adminTab, setAdminTab] = useState("overview"),
     [tracking, setTracking] = useState(""),
-    [pendingTracking, setPendingTracking] = useState(""),
     [notice, setNotice] = useState(""),
     [ready, setReady] = useState(false),
     [busy, setBusy] = useState(false),
@@ -99,7 +98,7 @@ function App() {
     if (p === "auth" && user) {
       p = user.role === "admin" ? "admin" : "customer";
     }
-    if (["customer", "admin", "track"].includes(p) && !user) {
+    if (["customer", "admin"].includes(p) && !user) {
       setAuthMode("login");
       setPage("auth");
       say("Sign in to access your account.");
@@ -160,15 +159,10 @@ function App() {
     }
     say("Shipment orders are created by the QuickEx delivery team.");
   };
-  const openShipment = async (trackingId, currentUser = user) => {
-    if (!currentUser) {
-      setPendingTracking(trackingId);
-      setAuthMode("login");
-      setPage("auth");
-      say("Sign in to view this shipment.");
-      return;
-    }
+  const openShipment = async (trackingId) => {
     try {
+      // Anyone with a tracking number can see the limited public shipment journey.
+      // Signed-in recipients and administrators receive the full record permitted by RLS.
       const shipment = await api.shipment(trackingId);
       setSelected(shipment);
       setPage("track");
@@ -184,12 +178,6 @@ function App() {
       await refreshData(currentUser);
     } catch (error) {
       say(error.message);
-    }
-    const trackingId = pendingTracking;
-    setPendingTracking("");
-    if (trackingId) {
-      await openShipment(trackingId, currentUser);
-      return;
     }
     setPage(currentUser.role === "admin" ? "admin" : "customer");
     window.scrollTo({ top: 0, behavior: "smooth" });
@@ -688,6 +676,7 @@ function App() {
           shipment={current}
           user={user}
           canComment={
+            !current.isPublic &&
             user?.role === "customer" &&
             user.email.toLowerCase() === current.email?.toLowerCase()
           }
@@ -718,7 +707,7 @@ function App() {
           say={say}
         />
       )}
-      {page !== "home" && page !== "auth" && !user && (
+      {["customer", "admin"].includes(page) && !user && (
         <div className="empty-state">
           <h2>Please log in to continue</h2>
           <button className="primary" onClick={() => go("auth")}>
@@ -904,7 +893,7 @@ function TrackPage({ shipment: s, user, canComment, onBack, onComment }) {
         QUICKEX
       </div>
       <button className="back-link" onClick={onBack}>
-        ← Back to dashboard
+        ← {user ? "Back to dashboard" : "Back to home"}
       </button>
       <div className="track-title">
         <div>
@@ -971,15 +960,31 @@ function TrackPage({ shipment: s, user, canComment, onBack, onComment }) {
           </div>
         </section>
         <section className="panel recipient-panel">
-          <h2>Recipient information</h2>
-          <Info label="Recipient" value={s.recipient} />
-          <Info label="Email" value={s.email} />
-          <Info label="Delivery address" value={s.address} />
-          <Info label="Country" value={s.country} />
-          <Info
-            label="Package contents"
-            value={s.contents || "Not specified"}
-          />
+          <h2>{s.isPublic ? "Recipient privacy" : "Recipient information"}</h2>
+          {s.isPublic ? (
+            <div className="account-note">
+              <ShieldCheck />
+              <div>
+                <b>Private delivery details are protected</b>
+                <p>
+                  This public tracking view shows the shipment route and delivery
+                  updates only. The recipient's email, address and package details
+                  are visible only to the matching customer account and QuickEx staff.
+                </p>
+              </div>
+            </div>
+          ) : (
+            <>
+              <Info label="Recipient" value={s.recipient} />
+              <Info label="Email" value={s.email} />
+              <Info label="Delivery address" value={s.address} />
+              <Info label="Country" value={s.country} />
+              <Info
+                label="Package contents"
+                value={s.contents || "Not specified"}
+              />
+            </>
+          )}
           <div className="comment-box">
             <h3>
               <MessageCircle size={17} /> Recipient comments
@@ -1018,10 +1023,13 @@ function TrackPage({ shipment: s, user, canComment, onBack, onComment }) {
                 </button>
               </form>
             )}
-            {!user && (
+            {!user && !s.isPublic && (
               <p className="muted">Log in to leave a recipient comment.</p>
             )}
-            {user && !canComment && (
+            {s.isPublic && (
+              <p className="muted">Recipient comments are private to the signed-in recipient.</p>
+            )}
+            {user && !canComment && !s.isPublic && (
               <p className="muted">
                 Sign in with the recipient’s account to leave a comment.
               </p>

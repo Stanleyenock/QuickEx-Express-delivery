@@ -1,0 +1,1011 @@
+[    3999ms] [ERROR] Executing inline event handler violates the following Content Security Policy directive 'script-src 'nonce-DOdeXfP9LNKwwrqTlgPVgQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:'. Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list. The action has been blocked. @ https://www.google.com/search?q=canva&oq=&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxjCAzIJCAAQRRg7GMIDMhEIARAAGAMYQhiPARi0AhjqAjIRCAIQABgDGEIYjwEYtAIY6gIyDwgDEC4YAxiPARi0AhjqAjIRCAQQABgDGEIYjwEYtAIY6gIyEQgFEAAYAxhCGI8BGLQCGOoCMhEIBhAAGAMYQhiPARi0AhjqAjIRCAcQABgDGEIYjwEYtAIY6gLSAQkxMjM5NGowajeoAgiwAgHxBaUr9oiBLUnT&sourceid=chrome&source=chrome.ob&ie=UTF-8:1
+[    8033ms] [INFO] Autofocus processing was blocked because a document already has a focused element. @ https://www.google.com/search?q=canva&oq=&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxjCAzIJCAAQRRg7GMIDMhEIARAAGAMYQhiPARi0AhjqAjIRCAIQABgDGEIYjwEYtAIY6gIyDwgDEC4YAxiPARi0AhjqAjIRCAQQABgDGEIYjwEYtAIY6gIyEQgFEAAYAxhCGI8BGLQCGOoCMhEIBhAAGAMYQhiPARi0AhjqAjIRCAcQABgDGEIYjwEYtAIY6gLSAQkxMjM5NGowajeoAgiwAgHxBaUr9oiBLUnT&sourceid=chrome&source=chrome.ob&ie=UTF-8:1
+[   12341ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://static.canva.com/web/0d96deec8c7cd239.sentry_browser.js:1
+[   12865ms] [ERROR] Not signed in with the identity provider. @ https://www.canva.com/:1
+[   24106ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://static.canva.com/web/0d96deec8c7cd239.sentry_browser.js:1
+[ 1199813ms] [WARNING] No available adapters. @ https://www.canva.com/:1
+[ 1525520ms] [INFO] Clear-Site-Data header on 'https://www.canva.com/_ajax/login2': Cleared data types: "prefetchCache", "prerenderCache". @ https://www.canva.com/:1
+[ 1529268ms] [WARNING] No available adapters. @ https://www.canva.com/account-checkup?flow=webauthn&redirect=%2F:1
+[ 1543455ms] [INFO] websocket_client: 1794560437235 connecting... @ https://static.canva.com/web/0d96deec8c7cd239.sentry_browser.js:1
+[ 1544243ms] [INFO] websocket_client: connected @ https://static.canva.com/web/0d96deec8c7cd239.sentry_browser.js:1
+[ 1544245ms] [INFO] websocket_client: status CONNECTED @ https://static.canva.com/web/0d96deec8c7cd239.sentry_browser.js:1
+[ 1544468ms] [INFO] websocket_client: request id a59c93fc9d18c13c @ https://static.canva.com/web/0d96deec8c7cd239.sentry_browser.js:1
+[ 1547068ms] [WARNING] No available adapters. @ https://www.canva.com/templates:1
+[ 1551745ms] [INFO] Clear-Site-Data header on 'https://www.canva.com/_ajax/profile/users/UAG_RnhdEWg': Cleared data types: "prefetchCache", "prerenderCache". @ https://www.canva.com/templates:1
+[ 1569873ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://o13855.ingest.sentry.io/api/1765407/envelope/?sentry_version=7&sentry_key=9bd48fe4e3864ea8b34e479bb6b1f6a4&sentry_client=sentry.javascript.browser%2F10.34.0:1
+[ 1569875ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_CLOSED @ https://o13855.ingest.sentry.io/api/1765407/envelope/?sentry_version=7&sentry_key=9bd48fe4e3864ea8b34e479bb6b1f6a4&sentry_client=sentry.javascript.browser%2F10.34.0:1
+[ 1731615ms] [INFO] websocket_client: 1794560625397 connecting... @ https://static.canva.com/web/0d96deec8c7cd239.sentry_browser.js:1
+[ 1733570ms] [INFO] websocket_client: connected @ https://static.canva.com/web/0d96deec8c7cd239.sentry_browser.js:1
+[ 1733571ms] [INFO] websocket_client: status CONNECTED @ https://static.canva.com/web/0d96deec8c7cd239.sentry_browser.js:1
+[ 1733709ms] [WARNING] No available adapters. @ https://www.canva.com/ai?tabId=9e54391c-264e-47ca-b509-a405e7758843:1
+[ 1733835ms] [INFO] websocket_client: request id a59c9894bb413c26 @ https://static.canva.com/web/0d96deec8c7cd239.sentry_browser.js:1
+[ 1871338ms] [LOG] ripple[DAHaya1NeEY:U8BvYdJq3gXz4ZhVA(0-0,0)]: subscribing to channel @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1871396ms] [INFO] ripple[DAHaya1NeEY:U8BvYdJq3gXz4ZhVA(0-0,0)]: unsubscribing from channel @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1871401ms] [INFO] websocket_client: 1794560765182 connecting... @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1872559ms] [INFO] websocket_client: connected @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1872560ms] [LOG] ripple[DAHaya1NeEY:U8BvYdJq3gXz4ZhVA(0-0,0)]: subscribing to channel @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1872562ms] [INFO] websocket_client: status CONNECTED @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1873301ms] [INFO] websocket_client: request id a59c9bfe7959bd33 @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1876101ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YAFdJjTk5UU/0/CanvaSans-RegularItalic16711881996774813.8dbae49e1280328b442be6dfff163124.woff2 @ https://static.canva.com/web/4de483f0bd6c2a36.vendor.js:2
+[ 1876101ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YAFdJjTk5UU/0/CanvaSans-Regular15263162195051178836.f4.f4a4890561b3fddfd1fd9a1b27b6d4a4.woff2 @ https://static.canva.com/web/4de483f0bd6c2a36.vendor.js:2
+[ 1876102ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YAFdJjTk5UU/0/CanvaSans-BoldItalic12646845404018590449.625cf32ea46ae48b58ebd3ff993de469.woff2 @ https://static.canva.com/web/4de483f0bd6c2a36.vendor.js:2
+[ 1876103ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YAFdJjTk5UU/0/CanvaSans-Bold13644182954117137290.33696.33696a29f45c1b554a4c12443b998d21.woff2 @ https://static.canva.com/web/4de483f0bd6c2a36.vendor.js:2
+[ 1876104ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YAFdJjTk5UU/0/CanvaSans-MediumItalic.2114be9bf82cd092e.e5e43f51d6d7939d8911c861efa5f9b7.woff2 @ https://static.canva.com/web/4de483f0bd6c2a36.vendor.js:2
+[ 1876106ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YAFdJjTk5UU/0/CanvaSans-Medium.95291d1cd5c6185e00ba590.c69c23593c9bd5705c7780a200f2a6db.woff2 @ https://static.canva.com/web/4de483f0bd6c2a36.vendor.js:2
+[ 1888170ms] [LOG] %cCanva was built with TypeScript, React, MobX, RxJS, PostCSS, webpack, and lots of love. text-shadow: #a0f9fa 0 0 2px; font-family: monospace; font-size: 1.4em; @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1888171ms] [LOG] %cWant to work with us? Check out https://www.canva.com/careers/ text-shadow: #a0f9fa 0 0 2px; font-family: monospace; font-size: 1.4em; @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1888171ms] [LOG] %cWant to work alongside us? check out our APIs & SDK at https://www.canva.com/developers/ text-shadow: #a0f9fa 0 0 2px; font-family: monospace; font-size: 1.4em; @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1954999ms] [WARNING] ripple[DAHaya1NeEY:U8BvYdJq3gXz4ZhVA(1794560671382-0,0)]: unexpected completion of incoming server stream @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1955001ms] [INFO] ripple[DAHaya1NeEY:U8BvYdJq3gXz4ZhVA(1794560671382-0,0)]: unsubscribing from channel @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1956024ms] [LOG] ripple[DAHaya1NeEY:U8BvYdJq3gXz4ZhVA(1794560671382-0,0)]: subscribing to channel @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 1956999ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ https://static.canva.com/web/4de483f0bd6c2a36.vendor.js:2
+[ 1958784ms] [INFO] [CLIENT (Telemetry)] Telemetry SDK initialized {"extra":{"isSystem":true}} @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1960253ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1960757ms] [INFO] [CLIENT (Telemetry:Editing)] Successfully connected to parent @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1960762ms] [INFO] [CLIENT (Telemetry:Resizing)] Successfully connected to parent @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1960783ms] [INFO] [CLIENT (Telemetry:Editing)] Received setFeatureFlags @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1960797ms] [INFO] [CLIENT (Telemetry:Editing)] Received setInteractionMode: 2 @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1960953ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1960960ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YACgEQzTv38/0/SourceSansPro-Regular.5182da425f811908bed9f5b8c72fa44f.ttf @ https://cqgbz941m6djag6d.canvacode.com/_sdk/d9be832f00068e0b.editing_sdk.js:1
+[ 1960961ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YACgEQzTv38/0/SourceSansPro-Bold.0d9b62a03206f739cd34b2936a5929f1.ttf @ https://cqgbz941m6djag6d.canvacode.com/_sdk/d9be832f00068e0b.editing_sdk.js:1
+[ 1960963ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YACgEQzTv38/0/SourceSansPro-Italic.764c2cc5318c856dfccb29cd8529b51d.ttf @ https://cqgbz941m6djag6d.canvacode.com/_sdk/d9be832f00068e0b.editing_sdk.js:1
+[ 1960964ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YACgEQzTv38/0/SourceSansPro-BoldItalic.9950e9ec3672c65b4e64bfb5b562131a.ttf @ https://cqgbz941m6djag6d.canvacode.com/_sdk/d9be832f00068e0b.editing_sdk.js:1
+[ 1961078ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1961084ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1961267ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1961268ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1962665ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1962674ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1962732ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1962740ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1963067ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1963078ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1963199ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1963207ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1963268ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1963907ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1963923ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1963947ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1963956ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1964046ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1966924ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1966940ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1973221ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1975885ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1975891ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1980151ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1980159ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1980435ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1980442ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1980497ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1980594ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1980613ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1980892ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1991499ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1991542ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1991585ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1991593ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1992216ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1992227ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 1992570ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2002379ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003278ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003295ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003317ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003395ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003396ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003666ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003678ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003699ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003711ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003733ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003734ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003755ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2003760ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2004159ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2004509ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2004511ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2004533ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2004543ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2004916ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2004927ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005148ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005160ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005181ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005193ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005214ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005227ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005531ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005544ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005564ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005635ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005643ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005918ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2005927ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2006133ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2012077ms] [WARNING] ripple[DAHaya1NeEY:U8BvYdJq3gXz4ZhVA(1794560754848-0,0)]: unexpected completion of incoming server stream @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2012080ms] [INFO] ripple[DAHaya1NeEY:U8BvYdJq3gXz4ZhVA(1794560754848-0,0)]: unsubscribing from channel @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2013091ms] [LOG] ripple[DAHaya1NeEY:U8BvYdJq3gXz4ZhVA(1794560754848-0,0)]: subscribing to channel @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2013907ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2013911ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgbz941m6djag6d.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2015460ms] [INFO] [CLIENT (Telemetry)] Telemetry SDK initialized {"extra":{"isSystem":true}} @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2015721ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2015990ms] [INFO] [CLIENT (Telemetry:Editing)] Successfully connected to parent @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2016082ms] [INFO] [CLIENT (Telemetry:Resizing)] Successfully connected to parent @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2016085ms] [INFO] [CLIENT (Telemetry:Editing)] Received setFeatureFlags @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2016123ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2016131ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YACgEQzTv38/0/SourceSansPro-Regular.5182da425f811908bed9f5b8c72fa44f.ttf @ https://cqgc10evxj22repb.canvacode.com/_sdk/d9be832f00068e0b.editing_sdk.js:1
+[ 2016132ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YACgEQzTv38/0/SourceSansPro-Bold.0d9b62a03206f739cd34b2936a5929f1.ttf @ https://cqgc10evxj22repb.canvacode.com/_sdk/d9be832f00068e0b.editing_sdk.js:1
+[ 2016132ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YACgEQzTv38/0/SourceSansPro-Italic.764c2cc5318c856dfccb29cd8529b51d.ttf @ https://cqgc10evxj22repb.canvacode.com/_sdk/d9be832f00068e0b.editing_sdk.js:1
+[ 2016133ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://font-public.canva.com/YACgEQzTv38/0/SourceSansPro-BoldItalic.9950e9ec3672c65b4e64bfb5b562131a.ttf @ https://cqgc10evxj22repb.canvacode.com/_sdk/d9be832f00068e0b.editing_sdk.js:1
+[ 2016335ms] [INFO] [CLIENT (Telemetry:Editing)] Received setInteractionMode: 2 @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2019703ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2019746ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2019762ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2019783ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2019795ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2020025ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2020028ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2020120ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2020130ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2020405ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2020407ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2023882ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2024017ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2024017ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2024142ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2029844ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2029846ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030126ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030131ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030152ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030164ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030190ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030198ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030485ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030580ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030789ms] [INFO] [CLIENT (Telemetry:Editing)] Forwarding analytics event: FIRST_LIVE_INTERACTION @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030853ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030894ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030897ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2030921ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2031026ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031028ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031049ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031051ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031051ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031184ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2031296ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031297ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031432ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031433ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031438ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031439ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031443ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031444ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031445ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031466ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031466ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031469ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031470ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031474ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031474ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031475ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031494ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031495ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031499ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031499ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031503ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031503ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031504ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031620ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2031685ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2031704ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2031704ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2031710ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031710ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031716ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031717ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031723ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031724ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2031724ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032067ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2032102ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2032139ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2032173ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2032205ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2032244ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2032275ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2032308ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2032340ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2032371ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2032561ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2032567ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032568ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032571ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032572ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032575ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032575ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032576ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032591ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2032598ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032599ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032603ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032604ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032607ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032608ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2032608ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033011ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.canva.com/_ajax/codelet/codelets/datapartition:1
+[ 2033314ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033356ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033389ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033421ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033433ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033434ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033453ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033453ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033454ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033459ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033459ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033465ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033465ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033466ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033521ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033556ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033593ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033620ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033658ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033688ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033721ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033752ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033764ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033765ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033774ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033775ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033781ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033782ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033788ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033789ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033789ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2033871ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033896ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2033928ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2034088ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2034093ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034094ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034098ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2034100ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034101ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034106ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034106ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034107ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034115ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2034127ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034128ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034134ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034135ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034140ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034141ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034142ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034156ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034157ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034159ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034160ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034166ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034167ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034168ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034371ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2034383ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034385ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034393ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034395ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034407ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034408ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034409ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034561ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2034586ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2034599ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2034600ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2034608ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034609ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034612ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034614ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034619ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034619ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2034620ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035002ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035034ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035072ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035124ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035130ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035131ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035136ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035136ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035139ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035140ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035143ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035144ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035144ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035320ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035387ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035421ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035465ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035496ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035604ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035654ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035981ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035987ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035988ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035986ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2035991ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035991ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035994ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035995ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035995ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2035998ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2036021ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036022ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036024ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036025ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036028ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036031ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036032ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036053ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036053ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036056ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036057ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036060ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036061ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036062ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036269ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2036282ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036284ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036291ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036294ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036301ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036302ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2036304ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037020ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037035ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037036ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037059ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037060ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037063ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037066ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037067ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037072ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037073ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037074ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037121ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037131ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037131ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037135ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037136ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037138ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037138ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037141ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037142ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037142ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037153ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037188ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037225ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037262ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037372ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037402ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037436ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037448ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037449ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037458ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037459ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037467ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037469ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037474ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037475ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037477ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2037606ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037729ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037811ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2037866ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2038026ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2038028ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2038031ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038032ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038032ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2038035ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038036ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038040ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038040ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038040ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038064ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038065ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038069ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038070ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038075ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038076ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038076ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038093ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038093ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038096ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038098ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038101ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038101ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038102ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038323ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2038336ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038338ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038342ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038343ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038351ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038352ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038353ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038824ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2038832ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2038834ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2038854ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038856ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038869ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038874ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038883ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038884ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038885ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038931ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2038947ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2038947ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2038953ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038953ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038956ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038957ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038959ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038960ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2038960ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039199ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039214ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039214ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039219ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039219ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039222ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039223ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039226ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039227ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039227ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039239ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039265ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039308ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039342ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039371ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039405ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039436ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039448ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039450ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039461ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039463ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039469ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039470ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039474ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039474ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039476ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039482ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039483ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039484ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039509ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039510ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039514ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039515ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039518ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039519ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039519ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039538ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039547ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039547ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039551ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039552ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039555ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039555ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039558ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039560ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039560ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039768ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039807ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039837ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039849ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039850ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039861ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039862ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039868ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039869ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039873ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039874ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039874ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039875ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039881ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039881ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2039894ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039895ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039898ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039898ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039901ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039901ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2039901ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2040373ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2040402ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2040415ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2040416ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2040429ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2040432ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2040439ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2040440ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2040444ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2040445ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2040446ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2040467ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2043216ms] [WARNING] ripple[DAHaya1NeEY:U8BvYdJq3gXz4ZhVA(1794560811911-0,0)]: unexpected completion of incoming server stream @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2043218ms] [INFO] ripple[DAHaya1NeEY:U8BvYdJq3gXz4ZhVA(1794560811911-0,0)]: unsubscribing from channel @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2044223ms] [LOG] ripple[DAHaya1NeEY:U8BvYdJq3gXz4ZhVA(1794560811911-0,0)]: subscribing to channel @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2067463ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2067954ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2074521ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2074875ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2075265ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139010ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139011ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139013ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139024ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139025ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139030ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139031ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139036ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139037ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139037ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139050ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139114ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139305ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139328ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139363ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139373ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139374ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139379ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139379ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139382ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139383ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139385ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139386ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139386ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139644ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139658ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139658ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139664ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139664ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139667ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139667ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139670ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139671ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139672ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139757ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139773ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139773ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2139779ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139780ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139783ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139784ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139787ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139787ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2139788ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140062ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140074ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140075ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140079ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140080ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140083ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140084ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140088ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140090ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140091ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140102ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140103ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140103ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140146ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140147ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140149ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140150ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140154ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140155ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140156ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140238ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140240ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140240ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140255ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140260ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140263ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140264ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140269ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140270ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140271ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140614ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140623ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140624ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140642ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140642ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140647ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140648ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140649ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2140651ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140652ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140661ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140661ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140662ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140870ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140870ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140873ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140874ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140878ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140879ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140879ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2140891ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2141037ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2141041ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2141041ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2141083ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141084ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141093ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141095ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141104ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141104ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141105ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141455ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2141547ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2141631ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2141702ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2141734ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2141763ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2141774ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2141774ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2141780ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141781ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141783ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141784ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141787ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141788ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2141788ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2142138ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2142244ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2142245ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2142245ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2142252ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2142252ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2142255ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2142255ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2142259ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2142260ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2142260ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2142515ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2142541ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2142557ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2144960ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2144980ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2144981ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2144988ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2144989ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2144993ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2144994ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2144997ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2144998ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2144999ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2145057ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2145246ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2145286ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2145316ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2145345ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2145380ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2145415ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2145560ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2145569ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2147407ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2147424ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2147425ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2147439ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147441ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147448ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147449ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147453ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147455ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147456ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147747ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2147951ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2147957ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147960ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147964ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147965ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147968ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147968ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147969ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2147962ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2147980ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2148019ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148019ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148022ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148022ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148026ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148027ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148027ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148070ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148071ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148073ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148075ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148078ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148079ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148079ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148243ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2148247ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148248ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148250ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148251ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148253ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148254ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148254ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148892ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2148919ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2148946ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2148958ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2148959ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2148970ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148970ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148974ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148975ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148980ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148981ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2148981ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149047ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2149058ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2149059ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2149079ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149080ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149084ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149084ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149092ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149093ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149095ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149215ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2149247ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2149259ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2149260ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2149286ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149287ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149292ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149293ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149297ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149298ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149298ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149812ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2149900ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2149907ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2149908ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2149917ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149918ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149921ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149922ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149928ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149928ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2149929ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150280ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2150442ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2150444ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2150448ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150448ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150451ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150451ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150455ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150455ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150456ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150460ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2150504ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150504ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150506ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150508ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150511ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150511ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150512ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150540ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150541ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150544ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150544ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150547ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150548ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150549ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150729ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2150737ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150738ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150744ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150745ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150752ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150753ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150755ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150833ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2150842ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2150843ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2150849ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150850ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150853ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150854ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150859ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150860ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150860ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2150867ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2150963ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2150996ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151359ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151397ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151434ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151467ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151498ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151531ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151567ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151600ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151632ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151642ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151643ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151667ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2151669ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2151688ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2151689ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2151693ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2151694ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2151694ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2151758ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151795ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151828ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151862ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151898ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2151902ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2156042ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2156058ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2156059ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2156076ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156077ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156084ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156085ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156092ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156093ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156094ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156264ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2156276ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2156277ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2156316ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156316ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156322ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156323ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156330ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156331ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156332ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156391ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2156408ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2156408ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2156418ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156419ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156423ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156423ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156427ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156428ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2156428ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2157826ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2158150ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2158509ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2158570ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2158602ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2158609ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2158609ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2158630ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2158631ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2158637ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2158638ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2158644ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2158645ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2158646ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2158699ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2158742ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2158783ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2158822ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159001ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159027ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159048ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159079ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159093ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159094ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159117ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159128ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2159131ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2159136ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2159137ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2159143ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2159144ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2159146ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2159205ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159232ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159267ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159303ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159340ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159387ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159418ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159447ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159479ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159517ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159548ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159584ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159802ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159836ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159863ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159896ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2159936ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2160259ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2160283ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2160293ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2160294ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2160317ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2160317ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2160327ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2160328ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2160334ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2160335ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2160335ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174403ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2174412ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2174412ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2174446ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174447ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174451ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174452ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174457ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174458ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174460ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174633ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2174645ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2174646ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2174678ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174678ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174682ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174684ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174689ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174690ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2174691ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2175266ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2181194ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2181210ms] [INFO] [CLIENT (Telemetry:Editing)] Sending selection change completed: [object Object] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2181211ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: [object DOMRect] @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2181221ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2181221ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2181223ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2181224ms] [WARNING] ControlledPages is currently not supported. Call site: isPageInnerLocked @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2181228ms] [WARNING] ControlledPages is currently not supported. Call site: SelectionInfoPresenter::getFixedSelectionProductInfo @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2181230ms] [WARNING] ControlledPages is currently not supported. Call site: FixedNavigationFactory::getNavigation @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2181231ms] [WARNING] ControlledPages is currently not supported. Call site: getAccessibilityNodeForPageSelection @ https://static.canva.com/web/5b6837185efa56f3.sentry_browser.js:1
+[ 2181705ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2181792ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2181816ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2182028ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2182075ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2182115ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2182140ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2182170ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2182314ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2182351ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2182974ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2182982ms] [INFO] [CLIENT (Telemetry:Editing)] Sending hover element changed: undefined @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2234450ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2235155ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2235708ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2236106ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2236612ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2236964ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2237380ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2243651ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2244094ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2244524ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2244907ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2245341ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2246244ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2246755ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2248763ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2249325ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2249643ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2272879ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2274609ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
+[ 2274982ms] [INFO] [CLIENT (Telemetry:Editing)] Received handleSetConfig @ https://cqgc10evxj22repb.canvacode.com/_sdk/5d7be449459a1919.telemetry_sdk.js:1
